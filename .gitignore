@@ -1,0 +1,4 @@
+./node_modules
+**/node_modules/*
+./at_ftp_client/node_modules
+./at_ftp_server/node_modules
