@@ -9,6 +9,6 @@
   "author": "P.Prakash @09/08/2019",
   "license": "ISC",
   "dependencies": {
-    "ftp-srv": "^4.1.1"
+    "ftp-srv": "^4.4.0"
   }
 }
